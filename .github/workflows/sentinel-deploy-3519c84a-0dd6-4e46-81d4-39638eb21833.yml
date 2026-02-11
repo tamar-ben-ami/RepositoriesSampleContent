@@ -26,7 +26,7 @@ jobs:
       workspaceId: '7ec1a547-4b8a-45ad-b9c6-d8219a93a8b4'
       directory: '${{ github.workspace }}'
       cloudEnv: 'AzurePPE'
-      contentTypes: 'Parser'
+      contentTypes: 'Parser,Workbook'
       branch: 'main'
       sourceControlId: '3519c84a-0dd6-4e46-81d4-39638eb21833'
       rootDirectory: '${{ github.workspace }}'
